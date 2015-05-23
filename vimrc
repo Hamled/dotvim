@@ -409,7 +409,7 @@
     NeoBundle 'tpope/vim-classpath', {'autoload':{'filetypes':['clj','cljs']}}
     NeoBundle 'guns/vim-sexp', {'autoload':{'filetypes':['clj','cljs']}}
     NeoBundle 'tpope/vim-sexp-mappings-for-regular-people', {'autoload':{'filetypes':['clj','cljs']}}
-    NeoBundle 'amdt/vim-niji', {'autoload':{'filetypes':['clj','cljs']}}
+    NeoBundle 'vim-scripts/vim-niji', {'autoload':{'filetypes':['clj','cljs']}}
     NeoBundle 'guns/vim-slamhound', {'autoload':{'filetypes':['clj','cljs']}}
     NeoBundle 'guns/vim-clojure-highlight', {'autoload':{'filetypes':['clj','cljs']}}
     NeoBundle 'jebberjeb/grimoire.vim', {'autoload':{'filetypes':['clj','cljs']}}
