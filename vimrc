@@ -752,7 +752,7 @@
     NeoBundleLazy 'mattreduce/vim-mix', {'autoload':{'filetypes':['elixir']}}
   endif "}}}
   if count(s:settings.plugin_groups, 'csharp') "{{{
-    NeoBundleLazy 'nosami/Omnisharp', {'autoload':{'filetypes':['cs']}}
+    NeoBundleLazy 'OmniSharp/omnisharp-vim', {'autoload':{'filetypes':['cs']}}
   endif "}}}
 
   nnoremap <leader>nbu :Unite neobundle/update -vertical -no-start-insert<cr>
